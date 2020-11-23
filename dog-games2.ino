@@ -17,7 +17,7 @@ version 2.1 of the License, or (at your option) any later version.
 Arduboy2 arduboy;
 Sprites sprites;
 
-
+// pole bitmap
 const byte PROGMEM pole[] =
 {
 // width, height,
